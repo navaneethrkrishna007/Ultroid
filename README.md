@@ -41,7 +41,7 @@ Get the [Necessary Variables](#Necessary-Variables) and then click the button be
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://deploy.ultroid.tech)
 
 
-[![Deploy]([![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Fnavaneethrkrishna007%2FUltroid&plugins=redis&envs=SESSION%2CAPI_ID%2CAPI_HASH&SESSIONDesc=SessionString+for+your+accounts+login+session.+Get+it+from+here&API_IDDesc=API_ID+From+%40MT_MyTelegramOrg_Bot&API_HASHDesc=API_HASH+From+%40MT_MyTelegramOrg_Bot&referralCode=DarkzAngelTg)
+[Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Fnavaneethrkrishna007%2FUltroid&plugins=redis&envs=SESSION%2CAPI_ID%2CAPI_HASH&SESSIONDesc=SessionString+for+your+accounts+login+session.+Get+it+from+here&API_IDDesc=API_ID+From+%40MT_MyTelegramOrg_Bot&API_HASHDesc=API_HASH+From+%40MT_MyTelegramOrg_Bot&referralCode=DarkzAngelTg)
 ## Deploy Locally
 - [Traditional Method](#local-deploy---traditional-method)
 - [Easy Method](#local-deploy---easy-method)
